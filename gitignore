@@ -1,3 +1,5 @@
+#Ignore all the .CSV files
+
 *.CSV
 
 chicago.csv
